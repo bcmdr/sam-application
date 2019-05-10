@@ -2,7 +2,7 @@
 An application portfolio for Social Asset Management, Inc.
 
 ## Web Design
-- [Overhauled a Wix Template to increase mobile ordering sales. (They sold out of Pizza).](https://www.figma.com/file/IYpBwYUhQfx8CSjWIUqPG9mT/Panini-s-Italian-Cucina-Portfolio-Website?node-id=0%3A1).  
+- [Overhauled a Wix Template to increase mobile ordering sales. (They sold out of Pizza)](https://www.figma.com/file/IYpBwYUhQfx8CSjWIUqPG9mT/Panini-s-Italian-Cucina-Portfolio-Website?node-id=0%3A1).  
 
 ## Artificial Intelligence
 
